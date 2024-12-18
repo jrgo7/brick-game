@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.sql": "sql",
+        "*.pl": "prolog",
+        "*.bat": "bat",
+        "raylib.h": "c"
+    }
+}
